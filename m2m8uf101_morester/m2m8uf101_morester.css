@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  overflow: visible;
+  position: relative;
+}
+
+.esquerra {
+  float: left;
+  clear: left;
+}
+
+.dreta {
+  float: right;
+  clear: right;
+}
+
+.cap {
+  width: 500px;
+  height: 800px;
+  background-color: gold;
+  margin: 0 auto;
+  border-radius: 100px 100px 200px 200px;
+}
+
+.pel {
+  height: 200px;
+  background-color: black;
+  border-radius: 100px 100px 0 0;
+}
+
+.ulls {
+  height: 230px;
+  background-color: pink;
+  clear: both;
+}
+
+.celles {
+  height: 20px;
+  background-color:;
+  clear: both;
+  margin: 0;
+}
+
+.cella {
+  width: 200px;
+  height: 20px;
+  background-color: brown;
+  margin: 0 25px;
+}
+
+.parpelles{
+  height: 60px;
+  background-color:;
+  margin:0;
+}
+.parpella{
+  width: 80px;
+  height: 80px;
+  background-color: tomato;
+  margin: 0 75px;
+}
+
+.pestanyes {
+  height: 100px;
+  background-color:;
+  margin: 0 75px;
+
+}
+
+.pestanya {
+  height: 40px;
+  width:80px;
+  background-color: ;
+  margin: 0;
+  top: -80px;
+  border-top: solid yellow 20px;
+  border-bottom: solid yellow 20px;
+}
+
+.pupila {
+  height: 50px;
+  background-color: green;
+}
